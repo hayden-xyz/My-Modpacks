@@ -2,22 +2,22 @@
 
 ## Inhaltsverzeichnis
 
-1. [Vorbereitung]
-2. [Arbeitsschutz und Sicherheit]
-3. [Werkzeuge und Materialien]
-4. [Allgemeines Zubehör]
-5. [Komponenten]
-   1. [Gehäuse]
-   2. [Netzteil]
-   3. [Mainboard]
-   4. [Prozessor / Kühler]
-   5. [Arbeitsspeicher (RAM)]
-   6. [Datenspeicher]
-   7. [Zusätzliche Laufwerke]
-   8. [Erweiterungskarten]
-6. [Montage]
-7. [Inbetriebnahme]
-8. [Entsorgung]
+1. [Vorbereitung](#vorbereitung)
+2. [Arbeitsschutz und Sicherheit](#arbeitsschutz-und-sicherheit)
+3. [Werkzeuge und Materialien](#werkzeuge-und-materialien)
+4. [Allgemeines Zubehör](#allgemeines-zubehör)
+5. [Komponenten](#komponenten)
+   1. [Gehäuse](#gehäuse)
+   2. [Netzteil](#netzteil)
+   3. [Mainboard](#mainboard)
+   4. [Prozessor / Kühler](#prozessor--kühler)
+   5. [Arbeitsspeicher (RAM)](#arbeitsspeicher-ram)
+   6. [Datenspeicher](#datenspeicher)
+   7. [Zusätzliche Laufwerke](#zusätzliche-laufwerke)
+   8. [Erweiterungskarten](#erweiterungskarten)
+6. [Montage](#montage)
+7. [Inbetriebnahme](#inbetriebnahme)
+8. [Entsorgung](#entsorgung)
 ___
 # Vorbereitung
 
