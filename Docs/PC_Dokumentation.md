@@ -18,3 +18,21 @@
 6. [Montage]
 7. [Inbetriebnahme]
 8. [Entsorgung]
+___
+# Vorbereitung
+
+___
+# Arbeitsschutz und Sicherheit
+
+___
+# Werkzeuge und Materialien
+
+___
+# Allgemeines Zubehör
+
+___
+# Komponenten
+
+___
+# Gehäuse
+
