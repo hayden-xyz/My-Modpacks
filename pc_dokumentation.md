@@ -117,12 +117,10 @@ ___
    - Falls der Kühler keine voraufgetragene Wärmeleitpaste hat, trage eine erbsengroße Menge auf die CPU auf
    - Setze den Kühler auf die CPU und befestige ihn laut Anleitung des Herstellers
 
-#### 4. Lüfter einbauen:
-
-#### 5. Netzteil einbauen:
+#### 4. Netzteil einbauen:
    - Setze das Netzteil an den vorgesehenen Platz im Gehäuse und befestige es mit Schrauben
 
-#### 6. 
+#### 5. 
 ___
 # Inbetriebnahme
 
