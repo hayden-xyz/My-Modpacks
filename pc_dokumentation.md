@@ -68,7 +68,21 @@ ___
 ___
 <h2 align="center">Netzteil</h2>
 
-> <b>Das Netzteil versorgt alle Komponenten mit elektrischer Energie. Wichtige Aspekte sind:​</b>
+> <b>Das Netzteil konvertiert Wechselstrom (AC) aus dem Stromnetz in Gleichstrom (DC) unterschiedlicher Spannungswerte zur Versorgung der einzelnen Hardwarekomponenten.</b>
+
+#### Bauarten:
+   - <i>Non-modular</i>: Alle Kabel sind fest integriert.
+   - <i>Semi-modular</i>: Einige Kabel sind fest verbunden, andere können bei Bedarf angeschlossen werden.
+   - <i>Modular</i>: Alle Kabel können individuell angeschlossen oder entfernt werden, was das Kabelmanagement erleichtert.
+
+#### Anschlüsse:
+   - 24-Pin ATX (Mainboard)
+   - 8/4/4+4-Pin EPS (CPU)
+   - 6/6+2/8-Pin PCIe (GPU)
+   - SATA (Festplatten / Fan Controller / etc)
+   - Molex (veraltet)
+
+<!-- > <b>Das Netzteil versorgt alle Komponenten mit elektrischer Energie. Wichtige Aspekte sind:​</b>
 
 #### Bauarten:
    - Nicht-modular: Alle Kabel sind fest mit dem Netzteil verbunden.​
@@ -80,7 +94,7 @@ ___
    - 8/4/4+4-Pin EPS (CPU)
    - PCIe 6/6+2/8-Pin (GPU, Andere
 #### Leistung: 
-   - Die benötigte Wattzahl hängt von den verbauten Komponenten ab. Starke CPUs und GPUs erhöhen den Energiebedarf.
+   - Die benötigte Wattzahl hängt von den verbauten Komponenten ab. Starke CPUs und GPUs erhöhen den Energiebedarf.-->
 ___
 <h2 align="center">Mainboard</h2>
 
@@ -93,16 +107,16 @@ ___
    - Mini-ITX: Sehr klein mit minimalen Erweiterungsmöglichkeiten.​
 
 #### CPU-Sockel: 
-   - Der CPU-Sockel bestimmt, welche Prozessoren kompatibel sind (z.B. Intel LGA1200 oder AMD AM4).​
+   - Mechanische und elektrische Schnittstelle für den Prozessor (z.B. LGA1700 für Intel oder AM5 für AMD).​
 
-#### Speicherbänke: 
-   - Anzahl der Steckplätze für RAM-Module, die die maximale Menge und Art des unterstützten Arbeitsspeichers bestimmen.​
+#### DIMM-Bänke: 
+   - Steckplätze​ für RAM-Module, meist DDR4 oder DDR5
 
-#### Anschlüsse: 
+<!--#### Anschlüsse: 
    - USB-Ports,
    - SATA-Anschlüsse für Laufwerke,
    - M.2-Steckplätze für SSDs
-   - weitere Schnittstellen für Peripheriegeräte.​
+   - weitere Schnittstellen für Peripheriegeräte.​-->
 
 #### Erweiterungsslots: 
    - PCIe-Steckplätze für Grafikkarten, Soundkarten oder andere Erweiterungskarten.
