@@ -162,16 +162,28 @@ ___
 #### Typen:
    - <i>HDD (Hard Disk Drive)</i>: Mechanisches Laufwerk, kostengünstig bei hoher Kapazität.
    - <i>SSD (Solid State Drive)</i>: Elektronisches Speichermedium, deutlich schneller bei Lese-/Schreibzugriffen.
+
+#### Anschlüsse:
+   - <i>SATA III</i> (6Gb/s): Weit verbreitet bei 3,5" HDDs und 2,5" SSDs
+   - <i>NVMe über M.2</i> (PCIe 3.0/4.0/5.0): Extrem hohe Übertragungsraten, direkt auf dem MAinboard montierbar
 ___
 <h2 align="center">Zusätzliche Laufwerke</h2>
 
-> <b>Dazu gehören optische Laufwerke (z.B. DVD/Blu-ray) oder zusätzliche Speicherlaufwerke</b> 
-   - Achten Sie auf verfügbare Anschlüsse und Einbauplätze im Gehäuse.
+> <b>Optische Laufwerke (z. B. DVD- oder Blu-ray-Recorder) und weitere Speicherlaufwerke</b>
+
+   - <b>Anschluss über SATA</b> oder ältere Schnittstellen wie IDE (veraltet).
+   - <b>Einbau in 5,25"- oder 3,5"-Schächte.</b>
+   - <b>Besonderheiten</b>: Heute meist optional, relevant für bestimmte Medienwiedergabe oder Datensicherung.
 ___
 <h2 align="center">Erweiterungskarten</h2>
 
-> <b>Beispiele sind Grafikkarten, Soundkarten oder Netzwerkkarten</b>
-   - Stellen Sie sicher, dass genügend Platz und passende Slots auf dem Mainboard vorhanden sind
+> <b>Zusätzliche Steckkarten, die spezifische Funktionen übernehmen:</b>
+
+- <b>Grafikkarten (GPU)</b>: Berechnung von Grafikprozessen, essenziell für z.B. Gaming und Videobearbeitung.
+   - Nutzung des PCIe-x16-Slots
+   - GDDR6-/GDDR6X-/GDDR7-Speicher
+- <b>Soundkarten</b>: Hochwertige Analog-Digital-Wandler für Audioaufnahmen und -wiedergabe.
+- <b>Netzwerkkarten</b>: Ethernet (1-10Gbits/s) oder WLAN-Module (z.B. WiFi 6).
 ___
 <h2 align="center">Montage</h2>
 
