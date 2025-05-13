@@ -130,7 +130,7 @@ ___
 #### Kerne und Threads: 
    - Mehr Kerne und Threads ermöglichen bessere Multitasking-Fähigkeiten und Leistung in parallelisierten Anwendungen.​
 
-<!--#### Taktfrequenz: 
+#### Taktfrequenz: 
    - Höhere Frequenzen bedeuten schnellere Verarbeitungsgeschwindigkeiten.​
 
 > <b>Der Kühler hält die CPU auf optimaler Betriebstemperatur:</b>​
@@ -139,26 +139,29 @@ ___
    - Verwendet Lüfter und Kühlkörper, um Wärme abzuführen.​
 
 #### Wasserkühlung: 
-   - Setzt auf Flüssigkeitskreisläufe zur effizienteren Kühlung, oft leiser und effektiver bei hoher Wärmeentwicklung.-->
+   - Setzt auf Flüssigkeitskreisläufe zur effizienteren Kühlung, oft leiser und effektiver bei hoher Wärmeentwicklung.
 ___
 <h2 align="center">Arbeitsspeicher (RAM - Random Access Memory)</h2>
 
 > <b>Der RAM speichert temporäre Daten für den schnellen Zugriff durch die CPU​</b>
 
 #### Typen: 
-   - DDR4, DDR5 usw., wobei neuere Generationen höhere Geschwindigkeiten und Effizienz bieten.​
+   - DDR4 (bis 3200 MHz), DDR5 (bis 6000 MHz+), jeweils in Dual- oder Quad-Channel-Konfiguration.
 
 #### Kapazität: 
    - Mehr RAM ermöglicht besseres Multitasking und Leistung in speicherintensiven Anwendungen.​
+   - Übliche Konfigurationen liegen zwischen 16 GB und 64 GB.
 
 #### Geschwindigkeit: 
    - Höhere MHz-Werte bedeuten schnelleren Datenzugriff, was die Gesamtleistung verbessern kann.
 ___
 <h2 align="center">Datenspeicher</h2>
 
-> <b>Hierzu zählen Festplatten (HDDs) und Solid-State-Drives (SSDs)</b> 
-   - SSDs sind schneller, während HDDs oft mehr Speicherplatz für weniger Geld bieten
-   - Anschlüsse können SATA oder M.2 sein
+> <b>Dient der dauerhaften Speicherung von Betriebssystem, Programmen und Benutzerdaten</b>
+
+#### Typen:
+   - <i>HDD (Hard Disk Drive)</i>: Mechanisches Laufwerk, kostengünstig bei hoher Kapazität.
+   - <i>SSD (Solid State Drive)</i>: Elektronisches Speichermedium, deutlich schneller bei Lese-/Schreibzugriffen.
 ___
 <h2 align="center">Zusätzliche Laufwerke</h2>
 
@@ -174,11 +177,10 @@ ___
 
 #### 1. Vorbereitung:
    - Stelle sicher dass dein Arbeitsplatz sauber, ordentlich und staubfrei ist
-   - Entlade statische Elektrizität, indem du einen geerdeten Metallgegenstand (z.B. Heizkörper) berührst
-   - Lege dir alle benötigten Teile bereit
+   - Lege dir eine antistatische Unterlage und ggf. ein ESD-Armband bereit
+   - Lege dir alle benötigten Komponenten bereit
 
 #### 2. Mainboard vorbereiten:
-   - Lege das Mainboard auf eine nicht leitende Oberfläche (z.B. den Produktkarton)
    - Installiere den Prozessor, indem du den Sockelhebel anhebst, die CPU korrekt ausrichtest, und vorsichtig einsetzt, danach den Hebel wieder schließen
    - Stecke den RAM in die dafür vorgesehenen Slots
    - Falls eine m.2-SSD verwendet wird, stecke diese in den entsprechenden Slot
@@ -194,7 +196,7 @@ ___
    - Setze das Netzteil an den vorgesehenen Platz im Gehäuse und befestige es mit Schrauben
 
 #### 5. Lüfter 
-   - An den ensprechenden Stellen im Gehäuse festschrauben
+   - Schraube diese an den entsprechenden Stellen im Gehäuse fest
 
 #### 6. Grafikkarte installieren:
    - Setze die Grafikkarte in den PCIe-Slot auf dem Mainboard ein
