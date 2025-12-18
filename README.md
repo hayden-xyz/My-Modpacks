@@ -1,11 +1,11 @@
-# Protect the Village Modpack
+# My Modpacks
 
 This repo exists for the sole purpose of me updating the pack
 
-<b>I DO NOT claim copyright over any of the files distributed with the Modpack. 
+<!--<b>I DO NOT claim copyright over any of the files distributed with the Modpack. 
 
 A list of all the Mods / Resource Packs / Shaderpacks and their respective creators can be found here:</b>
-
+-->
 ## Updating the Pack in Prism:
 
 1. Right click on the Instance and select "Edit"
