@@ -1,6 +1,6 @@
 # My Modpacks
 
-This repo exists for the sole purpose of me updating the pack
+This repo exists for the sole purpose of updating my modpacks
 
 <!--<b>I DO NOT claim copyright over any of the files distributed with the Modpack. 
 
