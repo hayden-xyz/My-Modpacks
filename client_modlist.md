@@ -1,5 +1,5 @@
 ### Last Updated: 18.12.2025 / 20:32
-### Modpack Version: v0.2.0-alpha
+### Modpack Version: v0.2.0-beta
 
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Advanced Netherite](https://modrinth.com/mod/CFX9ftUJ) by Autovw
